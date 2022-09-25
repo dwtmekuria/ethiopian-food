@@ -1,8 +1,6 @@
-# odin-recipes
-Odin Recipes
+# ethiopian-food
+Ethiopian Food
 
--Introduction
+Introduction
 
-Odin Recipes is a website project which shows food recipes.
-
-This website will be build using HTML,CSS and JavaScript.
+Of course Everyone loves Ethiopian food and this is a website project which shows Ethiopian food recipes.
